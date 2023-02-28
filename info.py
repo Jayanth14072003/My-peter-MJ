@@ -55,7 +55,7 @@ SPELL_IMG = environ.get('SPELL_IMG',"https://te.legra.ph/file/f304c726371d876ba3
 # Welcome area
 MELCOW_IMG = environ.get('MELCOW_IMG',"https://telegra.ph/file/e54cae941b9b81f13eb71.jpg")
 MELCOW_VID = environ.get('MELCOW_VID',"")
-
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/How_To_Download_NM_Links/20')
 
 
 # Admins, Channels & Users
